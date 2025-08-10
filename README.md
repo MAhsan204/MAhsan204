@@ -8,8 +8,8 @@
 ---
 
 ## My Experiences 🙌  
-**Associate BI Developer** @BluTech Consulting – Client: UBL Bank  
-- Worked on DSSU project to ensure 24/7 resource availability for UBL banking app and ATM users.  
+**Associate BI Developer** @Blutech Consulting  
+- Worked on projects to ensure 24/7 resource availability for UBL banking app and ATM users.  
 - Utilized Hive as a Data Lake for processing large-scale unstructured and semi-structured data.  
 - Managed data storage and retrieval using HDFS.  
 - Used Oracle Analytics for reporting and insights generation.  
@@ -48,5 +48,13 @@
 
 ## Honors & Awards 🏅  
 - Delivered analytics solutions that helped increase client campaign ROI by 25%.  
-- Built a reporting automation solution in Power BI, reducing report preparation time by 60%.  
+- Built a reporting automation solution in Power BI, reducing report preparation time by 60%.
+
+---
+
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/ahsanpervez)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/MAhsan204)  
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:ahsanpervaiz909@email.com)  
 
